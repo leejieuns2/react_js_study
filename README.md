@@ -1,3 +1,14 @@
+# React.js Practice Project
+
+생활코딩 - React 강의를 듣고 프로젝트 진행
+
+# Reference
+
+https://www.inflearn.com/course/react-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/dashboard
+https://github.com/facebook/create-react-app
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
